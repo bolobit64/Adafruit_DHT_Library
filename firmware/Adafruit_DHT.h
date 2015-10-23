@@ -5,6 +5,7 @@
  * modified for Spark Core by RussGrue
  * */
 
+//This is the header file for the Temperature/humidity Sensor DHTxx
 #ifndef DHT_H
 #define DHT_H
 
